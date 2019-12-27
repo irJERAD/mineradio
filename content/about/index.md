@@ -2,26 +2,33 @@
 title = "About"
 description = "Hugo, the world’s fastest framework for building websites"
 type = "about"
-date = "2019-02-28"
+date = "2019-12-26"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+### About me?
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I’ve got a computer that talks to me. My bed is in love with me. And it would seem the rest of the world has written me off as crazy, over the hill, or such a threat they wouldn’t dare confront me for fear of acknowledging it. <br>
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Series   
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+### Cool Talk  
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+You know what would be cool? <br>
+Here we are, _Cool Talk_, with Jerad. <br>
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Pigeons holed him as a one-off. <br>
+“Couldn’t be done” They said. <br>
+“Ahhk, couldn’t go it again.” they grubled after hearing someone squawk about him doing it. <br>
+
+Avert your eyes from these colors birds of the sidewalk laden feather, because this pigeon toed us so. <br>
+
+Walking and talking about throwing a baseball so fast, so far, it might just make itself known to the rearend <br>
+#TTHHBbp!! <br>
 
 
+### 3rd Wall Party Foul   
+
+You might know these guys from that great wall over there. Keeping ‘em hoarde free fur-<br>
+..-ever really. I mean, you can see it from space. That’s like Egyptian level. <br>
 
