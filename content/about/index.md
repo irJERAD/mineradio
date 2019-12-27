@@ -32,3 +32,11 @@ Walking and talking about throwing a baseball so fast, so far, it might just mak
 You might know these guys from that great wall over there. Keeping ‘em hoarde free fur-<br>
 ..-ever really. I mean, you can see it from space. That’s like Egyptian level. <br>
 
+When you watch a show find out its a show and conscious beings start falling out of the sky like Angels on pogs, Your 3rd wall has seriously fouled and everyone is on board with the wave.
+
+
+### Persona Fiction   
+
+Can you believe this guy? <br>
+It’s me! Somewould say, I’m him. <br>
+Here are a few points I meta-phor you. Let me know if you’d like the words sent by paper crain. <br>
