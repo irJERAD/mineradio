@@ -1,0 +1,91 @@
+[
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/archive/",
+	"title": "Archive",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "Archive Page",
+	"content": "archive page\n"
+},
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/about/",
+	"title": "About",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "About Page",
+	"content": ""
+},
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/",
+	"title": "Hugo Zzo Theme",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/gallery/",
+	"title": "Galleries",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/gallery/photo/",
+	"title": "Photo",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "포토 갤러리",
+	"content": ""
+},
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/gallery/cartoon/",
+	"title": "Cartoon",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "cartoon gallery",
+	"content": ""
+},
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/categories/",
+	"title": "Categories",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/posts/",
+	"title": "Posts",
+	"tags": ["index"],
+	"categories": [],
+	"series": [],
+	"description": "Post page",
+	"content": ""
+},
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/series/",
+	"title": "Series",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://MineRadio.jerad.xyz/ko/tags/",
+	"title": "Tags",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+}]

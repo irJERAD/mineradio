@@ -1,3 +1,5 @@
 baseURL = "https://MineRadio.jerad.xyz"
-languageCode = "en-us"
 title = "CPMe Radio Bed"
+theme = "zzo"
+
+description = "The theme of all Mine Radio friends and beds and computers and bats and you too"
