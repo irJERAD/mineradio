@@ -18,13 +18,13 @@ archivePaginate = 13
 paginateWindow = 1
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
-useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+myname = "Jerad Acosta"
+email = "irJerad@icloud.com"
+whoami = "metaphor"
+useGravatar = true
+location = "Vista, California"
+organization = "Palaver"
+link = "https://jerad.xyz/"
 
 # sidebar
 enableBio = true
@@ -53,11 +53,11 @@ busuanziPagePV = true
 
 # comment
 enableComment = true
-disqus_shortname = ""
+disqus_shortname = "irJerad"
 commento = false
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-  owner = ""              # Your GitHub ID
+  owner = "irjerad"              # Your GitHub ID
   repo = ""               # The repo to store comments
   clientId = ""           # Your client ID
   clientSecret = ""       # Your client secret
@@ -67,7 +67,7 @@ commento = false
   repo = ""               # The repo to store comments
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-  owner = ""              # Your GitHub ID
+  owner = "irjerad"              # Your GitHub ID
   repo = ""               # The repo to store comments
   clientId = ""           # Your client ID
   clientSecret = ""       # Your client secret
@@ -99,17 +99,17 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  email = "irJerad@icloud.com"
+  facebook = "https://facebook.com/jeradacosta/"
+  twitter = "https://twitter.com/irjerad"
+  github = "https://github.com/irjerad/mineradio"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
-  youtube = ""
-  medium = ""
+  youtube = "TheCorrectSadists"
+  medium = "https://medium.com/@irjerad"
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://linkedin.com/in/jeradacosta"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
