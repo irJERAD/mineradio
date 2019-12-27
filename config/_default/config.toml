@@ -1,5 +1,5 @@
-baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+baseURL = "https://MineRadio.jerad.xyz"
+title = "CPMe Radio Bed"
 theme = "zzo"
 
 defaultContentLanguage = "en"
@@ -8,14 +8,14 @@ hasCJKLanguage = true
 
 summaryLength = 70
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{oh-19}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
 paginate = 13
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "UA-91420291-1"
 
 [markup]
   [markup.goldmark]
