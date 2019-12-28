@@ -1,5 +1,5 @@
 logoText = "RadioBed"
-description = "The Zzo theme for Hugo example site."
+description = "Birds of a Feather"
 custom_css = []
 custom_js = []
 
@@ -19,7 +19,7 @@ paginateWindow = 1
 
 # whoami
 myname = "Jerad Acosta"
-email = "irJerad@icloud.com"
+email = "jsacosta1103@gmail.com"
 whoami = "metaphor"
 useGravatar = true
 location = "Vista, California"
