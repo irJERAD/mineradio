@@ -2,7 +2,7 @@
 title: "Radio War Gear"
 date: 2019-12-27
 description: "Equip Future Self for Final Stand"
-tags: ["future","amazon","affiliate","space","E.T."]
+tags: ["future","amazon","affiliate","space","ET"]
 series: ["In The End"]
 categories: ["Side Hussle"]
 ---
@@ -22,4 +22,3 @@ One does not simply traverse the cosmic space-ways or tackle the metaphysics of 
 A green color for those looking for lower frequency. This would also be closer to the near infrared frequency they emit.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mineradio-20&language=en_US&marketplace=amazon&region=US&placement=B07X3KFGF7&asins=B07X3KFGF7&linkId=28ca212c72f3e96d17913abd8610fa00&show_border=true&link_opens_in_new_window=true"></iframe>
-
