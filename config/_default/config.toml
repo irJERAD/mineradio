@@ -1,4 +1,4 @@
-baseURL = "http://MineRadio.jerad.xyz"
+baseURL = "http://MineRadio.jerad.xyz/"
 title = "RadioBed"
 theme = "zzo"
 
@@ -14,7 +14,7 @@ enableEmoji = true
 paginate = 13
 rssLimit = 100
 
-enableGitInfo = false
+enableGitInfo = true
 googleAnalytics = "UA-91420291-1"
 
 [markup]

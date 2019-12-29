@@ -3,8 +3,9 @@ aliases: ["posts","articles","blog","showcase","docs"]
 title: "Oh Look What We've Done"
 author: "Jerad Steven Acosta"
 tags: ["lotto","game","dream"]
-series: ["What If"]
-categories: ["alternate reality","truth"] 
+series: ["what-if"]
+categories: ["alternate-reality","truth"]
+type: "post" 
 description: "we've made a fool of every-one"
 ---
 

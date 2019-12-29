@@ -3,6 +3,7 @@ aliases: ["posts","articles","blog","showcase","docs"]
 title: "A Gift To The Gifted"
 author: "Jerad Acosta"
 tags: ["lyfe"]
+type: "post"
 description: "a gift for gifted people"
 ---
 

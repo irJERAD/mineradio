@@ -1,9 +1,9 @@
-+++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-type = "about"
-date = "2019-12-26"
-+++
+---
+title: "About"
+description: "Hugo, the world’s fastest framework for building websites"
+type: "about"
+date: 2019-12-26
+---
 
 
 ### About me?

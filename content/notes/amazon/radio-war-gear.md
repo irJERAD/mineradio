@@ -2,9 +2,10 @@
 title: "Radio War Gear"
 date: 2019-12-27
 description: "Equip Future Self for Final Stand"
-tags: ["future","amazon","affiliate","space","ET"]
-series: ["In The End"]
-categories: ["Side Hussle"]
+tags: ["index","future","amazon","affiliate","space","ET"]
+series: ["in-the-end"]
+type: "note"
+categories: ["side-hussle"]
 ---
 
 Let me clearly start this with:
