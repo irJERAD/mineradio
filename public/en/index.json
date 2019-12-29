@@ -144,51 +144,6 @@
 	"content": ""
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/en/pt/dir/fourth/",
-	"title": "Fourth",
-	"tags": [""],
-	"categories": [],
-	"series": [""],
-	"description": "My fourth presentation",
-	"content": ""
-},
-{
-	"uri": "https://MineRadio.jerad.xyz/en/pt/",
-	"title": "Presentations",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "Presentation list with reveal.js",
-	"content": ""
-},
-{
-	"uri": "https://MineRadio.jerad.xyz/en/pt/third/",
-	"title": "Third",
-	"tags": [""],
-	"categories": [],
-	"series": [""],
-	"description": "My third presentation",
-	"content": ""
-},
-{
-	"uri": "https://MineRadio.jerad.xyz/en/pt/second/",
-	"title": "Second",
-	"tags": [""],
-	"categories": [],
-	"series": [""],
-	"description": "My second presentation",
-	"content": ""
-},
-{
-	"uri": "https://MineRadio.jerad.xyz/en/pt/first/",
-	"title": "First",
-	"tags": [""],
-	"categories": [],
-	"series": [""],
-	"description": "My first presentation",
-	"content": ""
-},
-{
 	"uri": "https://MineRadio.jerad.xyz/en/archive/",
 	"title": "Archive",
 	"tags": [],
