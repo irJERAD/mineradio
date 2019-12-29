@@ -6,6 +6,7 @@ tags = ["lotto","game","dream"]
 series = ["What If"]
 categories = ["alternate reality","truth"] 
 description = "we've made a fool of every-one"
+
 +++
 
 
