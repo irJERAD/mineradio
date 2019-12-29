@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RadioBed</title>
-    <link>https://MineRadio.jerad.xyz/ko/</link>
+    <link>http://MineRadio.jerad.xyz/ko/</link>
     <description>Recent content on RadioBed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -11,35 +11,35 @@
     <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 09 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://MineRadio.jerad.xyz/ko/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://MineRadio.jerad.xyz/ko/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>About</title>
-        <link>https://MineRadio.jerad.xyz/ko/about/</link>
+        <link>http://MineRadio.jerad.xyz/ko/about/</link>
         <pubDate>Wed, 09 Oct 2019 11:44:14 +0900</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>https://MineRadio.jerad.xyz/ko/about/</guid>
+        <guid>http://MineRadio.jerad.xyz/ko/about/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Photo</title>
-        <link>https://MineRadio.jerad.xyz/ko/gallery/photo/</link>
+        <link>http://MineRadio.jerad.xyz/ko/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>https://MineRadio.jerad.xyz/ko/gallery/photo/</guid>
+        <guid>http://MineRadio.jerad.xyz/ko/gallery/photo/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Cartoon</title>
-        <link>https://MineRadio.jerad.xyz/ko/gallery/cartoon/</link>
+        <link>http://MineRadio.jerad.xyz/ko/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>https://MineRadio.jerad.xyz/ko/gallery/cartoon/</guid>
+        <guid>http://MineRadio.jerad.xyz/ko/gallery/cartoon/</guid>
         <description></description>
       </item>
       

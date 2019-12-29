@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on RadioBed</title>
-    <link>https://MineRadio.jerad.xyz/en/categories/</link>
+    <link>http://MineRadio.jerad.xyz/en/categories/</link>
     <description>Recent content in Categories on RadioBed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,35 +11,35 @@
     <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://MineRadio.jerad.xyz/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://MineRadio.jerad.xyz/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Side Hussle</title>
-        <link>https://MineRadio.jerad.xyz/en/categories/side-hussle/</link>
+        <link>http://MineRadio.jerad.xyz/en/categories/side-hussle/</link>
         <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>https://MineRadio.jerad.xyz/en/categories/side-hussle/</guid>
+        <guid>http://MineRadio.jerad.xyz/en/categories/side-hussle/</guid>
         <description></description>
       </item>
       
       <item>
         <title>alternate reality</title>
-        <link>https://MineRadio.jerad.xyz/en/categories/alternate-reality/</link>
+        <link>http://MineRadio.jerad.xyz/en/categories/alternate-reality/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>https://MineRadio.jerad.xyz/en/categories/alternate-reality/</guid>
+        <guid>http://MineRadio.jerad.xyz/en/categories/alternate-reality/</guid>
         <description></description>
       </item>
       
       <item>
         <title>truth</title>
-        <link>https://MineRadio.jerad.xyz/en/categories/truth/</link>
+        <link>http://MineRadio.jerad.xyz/en/categories/truth/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>https://MineRadio.jerad.xyz/en/categories/truth/</guid>
+        <guid>http://MineRadio.jerad.xyz/en/categories/truth/</guid>
         <description></description>
       </item>
       

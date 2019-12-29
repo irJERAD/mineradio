@@ -1,6 +1,6 @@
 [
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/archive/",
+	"uri": "http://MineRadio.jerad.xyz/ko/archive/",
 	"title": "Archive",
 	"tags": [],
 	"categories": [],
@@ -9,7 +9,7 @@
 	"content": "archive page\n"
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/about/",
+	"uri": "http://MineRadio.jerad.xyz/ko/about/",
 	"title": "About",
 	"tags": [],
 	"categories": [],
@@ -18,7 +18,7 @@
 	"content": ""
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/",
+	"uri": "http://MineRadio.jerad.xyz/ko/",
 	"title": "RadioBed",
 	"tags": [],
 	"categories": [],
@@ -27,7 +27,7 @@
 	"content": ""
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/gallery/",
+	"uri": "http://MineRadio.jerad.xyz/ko/gallery/",
 	"title": "Galleries",
 	"tags": [],
 	"categories": [],
@@ -36,7 +36,7 @@
 	"content": ""
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/gallery/photo/",
+	"uri": "http://MineRadio.jerad.xyz/ko/gallery/photo/",
 	"title": "Photo",
 	"tags": [],
 	"categories": [],
@@ -45,7 +45,7 @@
 	"content": ""
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/gallery/cartoon/",
+	"uri": "http://MineRadio.jerad.xyz/ko/gallery/cartoon/",
 	"title": "Cartoon",
 	"tags": [],
 	"categories": [],
@@ -54,7 +54,7 @@
 	"content": ""
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/categories/",
+	"uri": "http://MineRadio.jerad.xyz/ko/categories/",
 	"title": "Categories",
 	"tags": [],
 	"categories": [],
@@ -63,7 +63,7 @@
 	"content": ""
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/posts/",
+	"uri": "http://MineRadio.jerad.xyz/ko/posts/",
 	"title": "Posts",
 	"tags": ["index"],
 	"categories": [],
@@ -72,7 +72,7 @@
 	"content": ""
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/series/",
+	"uri": "http://MineRadio.jerad.xyz/ko/series/",
 	"title": "Series",
 	"tags": [],
 	"categories": [],
@@ -81,7 +81,7 @@
 	"content": ""
 },
 {
-	"uri": "https://MineRadio.jerad.xyz/ko/tags/",
+	"uri": "http://MineRadio.jerad.xyz/ko/tags/",
 	"title": "Tags",
 	"tags": [],
 	"categories": [],
