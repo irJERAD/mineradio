@@ -1,9 +1,9 @@
 ---
-aliases = ["posts","articles","blog","showcase","docs"]
-title = "A Gift To The Gifted"
-author = "Jerad Acosta"
-tags = ["lyfe"]
-description = "a gift for gifted people"
+aliases: ["posts","articles","blog","showcase","docs"]
+title: "A Gift To The Gifted"
+author: "Jerad Acosta"
+tags: ["lyfe"]
+description: "a gift for gifted people"
 ---
 
 ## A gift to the gifted
