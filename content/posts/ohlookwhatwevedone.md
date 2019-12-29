@@ -1,3 +1,4 @@
+---
 aliases = ["posts","articles","blog","showcase","docs"]
 title = "Oh Look What We've Done"
 author = "Jerad Steven Acosta"
@@ -5,8 +6,7 @@ tags = ["lotto","game","dream"]
 series = ["What If"]
 categories = ["alternate reality","truth"] 
 description = "we've made a fool of every-one"
-
-+++
+---
 
 
 
