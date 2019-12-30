@@ -44,6 +44,24 @@
       </item>
       
       <item>
+        <title>ideas</title>
+        <link>http://MineRadio.jerad.xyz/en/categories/ideas/</link>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://MineRadio.jerad.xyz/en/categories/ideas/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>dreams</title>
+        <link>http://MineRadio.jerad.xyz/en/categories/dreams/</link>
+        <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://MineRadio.jerad.xyz/en/categories/dreams/</guid>
+        <description></description>
+      </item>
+      
+      <item>
         <title>future</title>
         <link>http://MineRadio.jerad.xyz/en/categories/future/</link>
         <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
@@ -53,11 +71,56 @@
       </item>
       
       <item>
+        <title>family</title>
+        <link>http://MineRadio.jerad.xyz/en/categories/family/</link>
+        <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://MineRadio.jerad.xyz/en/categories/family/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>MineRadio</title>
+        <link>http://MineRadio.jerad.xyz/en/categories/mineradio/</link>
+        <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://MineRadio.jerad.xyz/en/categories/mineradio/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>special</title>
+        <link>http://MineRadio.jerad.xyz/en/categories/special/</link>
+        <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://MineRadio.jerad.xyz/en/categories/special/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>poetry</title>
+        <link>http://MineRadio.jerad.xyz/en/categories/poetry/</link>
+        <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://MineRadio.jerad.xyz/en/categories/poetry/</guid>
+        <description></description>
+      </item>
+      
+      <item>
         <title>alternate-reality</title>
         <link>http://MineRadio.jerad.xyz/en/categories/alternate-reality/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
         <guid>http://MineRadio.jerad.xyz/en/categories/alternate-reality/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Data Science</title>
+        <link>http://MineRadio.jerad.xyz/en/categories/data-science/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://MineRadio.jerad.xyz/en/categories/data-science/</guid>
         <description></description>
       </item>
       

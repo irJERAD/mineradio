@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on RadioBed</title>
+    <link>http://MineRadio.jerad.xyz/en/tags/video/</link>
+    <description>Recent content in video on RadioBed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jsacosta1103@gmail.com (Jerad Acosta)</managingEditor>
+    <webMaster>jsacosta1103@gmail.com (Jerad Acosta)</webMaster>
+    <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
+    
+        <atom:link href="http://MineRadio.jerad.xyz/en/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>San Diego Data Library Hackathon</title>
+        <link>http://MineRadio.jerad.xyz/en/posts/sddatalibraryhackathon/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://MineRadio.jerad.xyz/en/posts/sddatalibraryhackathon/</guid>
+        <description>A talk from the final round in the 2015 San Diego Data Science Data Hackathon.
+  </description>
+      </item>
+      
+    
+  </channel>
+</rss>
