@@ -24,7 +24,7 @@ whoami = "metaphor"
 useGravatar = true
 location = "Vista, California"
 organization = "Palaver"
-link = "https://jerad.xyz/"
+link = "http://jerad.xyz/"
 
 # sidebar
 enableBio = true
@@ -107,9 +107,9 @@ commento = false
   instagram = ""
   google-plus = ""
   youtube = "TheCorrectSadists"
-  medium = "https://medium.com/@irjerad"
+  medium = "http://medium.com/@irjerad"
   tumblr = ""
-  linkedin = "https://linkedin.com/in/jeradacosta"
+  linkedin = "http://linkedin.com/in/jeradacosta"
   pinterest = ""
   stack-exchange = ""
   telegram = ""

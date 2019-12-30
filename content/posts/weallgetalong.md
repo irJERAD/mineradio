@@ -1,6 +1,9 @@
 ---
-title: "Why Can't We All Just Get Along"
-tag: ["lyfe"]
+title: Why Can't We All Just Get Along
+tag: 
+    - lyfe
+series:
+    - ID
 ---
 
 

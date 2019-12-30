@@ -1,23 +1,34 @@
 ---
-aliases: ["posts","articles","blog","showcase","docs"]
-title: "Oh Look What We've Done"
-author: "Jerad Steven Acosta"
-tags: ["lotto","game","dream"]
-series: ["what-if"]
-categories: ["alternate-reality","truth"]
-type: "post" 
-description: "we've made a fool of every-one"
+aliases:
+    - posts
+    - articles
+    - blog
+    - showcase
+    - docs
+title: Oh Look What We've Done
+description: we've made a fool of every-one
+author: Jerad Steven Acosta
+tags:
+    - lotto
+    - game
+    - dream
+categories:
+    - alternate-reality
+    - truth
+series:
+    - what-if
+type: post
 ---
 
 
 
-## Oh Look We've Done
+## Oh Look We've Done  
 
-Less than three years ago I was in a bad place and had not realized it yet. I had no job and was in the first year of a two year campaign targeted at arresting my life with my family, friends, wife and career.
+Less than three years ago I was in a bad place and had not realized it yet. I had no job and was in the first year of a two year campaign targeted at arresting my life with my family, friends, wife and career. <br>
 
 ### He cannot afford you:  
 
-I could not afford my wife. My cost of living could no longer be bottom lined with cup of noodles, bus passes, and offloading as much extra cost and time to my parents, such as laundry and dinner, as possible.
+I could not afford my wife. My cost of living could no longer be bottom lined with cup of noodles, bus passes, and offloading as much extra cost and time to my parents, such as laundry and dinner, as possible. <br>
 
 ## Made a fool of everyone  
 
