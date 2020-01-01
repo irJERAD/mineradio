@@ -1,6 +1,7 @@
 ---
 title: Just Saying
 describe: wish I did more
+date: 2019-12-29
 author: Jerad Steven Acosta
 tags: 
     - lyfe
