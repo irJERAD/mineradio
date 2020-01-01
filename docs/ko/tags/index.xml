@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RadioBed</title>
-    <link>http://MineRadio.jerad.xyz/ko/tags/</link>
+    <link>http://radiobed.jerad.xyz/ko/tags/</link>
     <description>Recent content in Tags on RadioBed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -10,7 +10,7 @@
     <webMaster>jsacosta1103@gmail.com (Jerad Acosta)</webMaster>
     <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
     
-        <atom:link href="http://MineRadio.jerad.xyz/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://radiobed.jerad.xyz/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     

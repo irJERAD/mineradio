@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on RadioBed</title>
-    <link>http://MineRadio.jerad.xyz/en/categories/data-science/</link>
+    <link>http://radiobed.jerad.xyz/en/categories/data-science/</link>
     <description>Recent content in Data Science on RadioBed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,17 +10,17 @@
     <webMaster>jsacosta1103@gmail.com (Jerad Acosta)</webMaster>
     <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
     
-        <atom:link href="http://MineRadio.jerad.xyz/en/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://radiobed.jerad.xyz/en/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>San Diego Data Library Hackathon</title>
-        <link>http://MineRadio.jerad.xyz/en/posts/sddatalibraryhackathon/</link>
+        <link>http://radiobed.jerad.xyz/en/posts/sddatalibraryhackathon/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>http://MineRadio.jerad.xyz/en/posts/sddatalibraryhackathon/</guid>
+        <guid>http://radiobed.jerad.xyz/en/posts/sddatalibraryhackathon/</guid>
         <description>A talk from the final round in the 2015 San Diego Data Science Data Hackathon.
   </description>
       </item>

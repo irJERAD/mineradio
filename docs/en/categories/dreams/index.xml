@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dreams on RadioBed</title>
-    <link>http://MineRadio.jerad.xyz/en/categories/dreams/</link>
+    <link>http://radiobed.jerad.xyz/en/categories/dreams/</link>
     <description>Recent content in dreams on RadioBed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,17 +11,17 @@
     <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://MineRadio.jerad.xyz/en/categories/dreams/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://radiobed.jerad.xyz/en/categories/dreams/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>The Observer</title>
-        <link>http://MineRadio.jerad.xyz/en/posts/theobserver/</link>
+        <link>http://radiobed.jerad.xyz/en/posts/theobserver/</link>
         <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>http://MineRadio.jerad.xyz/en/posts/theobserver/</guid>
+        <guid>http://radiobed.jerad.xyz/en/posts/theobserver/</guid>
         <description>Comfy in my cloth dress I explore this realm Looked after, maintained Through my observation Close your eyes, terminals Screens on tables, aligned Surface glow from metric input Is this where I go? Gradient, measured, intent Absent ordered direction, I Find safety glass separates us, along A body, the horizon between all absorbed, and All not </description>
       </item>
       

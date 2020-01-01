@@ -2,25 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lyfe on RadioBed</title>
-    <link>http://MineRadio.jerad.xyz/en/tags/lyfe/</link>
+    <link>http://radiobed.jerad.xyz/en/tags/lyfe/</link>
     <description>Recent content in lyfe on RadioBed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>jsacosta1103@gmail.com (Jerad Acosta)</managingEditor>
     <webMaster>jsacosta1103@gmail.com (Jerad Acosta)</webMaster>
     <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://MineRadio.jerad.xyz/en/tags/lyfe/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://radiobed.jerad.xyz/en/tags/lyfe/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
+        <title>Just Saying</title>
+        <link>http://radiobed.jerad.xyz/en/posts/justsaying/</link>
+        <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/posts/justsaying/</guid>
+        <description>&amp;ldquo;Don&#39;t drink from the black liquid.&amp;rdquo; - They say.
+&amp;ldquo;Your heart is new, your debt in paid.&amp;rdquo;
+They have said this before.
+It is always the same; however,
+I do feel well, and I love myself.
+I truly love who I am,
+and there is something else.
+No magic was taken, not a breadth or 4 or 5.
+And although the ones above care not what I put inside,
+only that I am cared for as I&#39;ll reach potential, it is in my design.</description>
+      </item>
+      
+      <item>
         <title>A Gift To The Gifted</title>
-        <link>http://MineRadio.jerad.xyz/en/posts/giftedgift/</link>
+        <link>http://radiobed.jerad.xyz/en/posts/giftedgift/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>http://MineRadio.jerad.xyz/en/posts/giftedgift/</guid>
+        <guid>http://radiobed.jerad.xyz/en/posts/giftedgift/</guid>
         <description>A gift to the gifted Seen our entire lives. More than family, more than a sibling, more than self in many ways. He was all of us and still is. Up until our immergence in New Zealand 2018 we were all one.</description>
       </item>
       
