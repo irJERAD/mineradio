@@ -53,12 +53,12 @@ busuanziPagePV = true
 
 # comment
 enableComment = true
-disqus_shortname = "irJerad"
+disqus_shortname = "irjerad"
 commento = false
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
   owner = "irjerad"              # Your GitHub ID
-  repo = ""               # The repo to store comments
+  repo = "radiobed"               # The repo to store comments
   clientId = ""           # Your client ID
   clientSecret = ""       # Your client secret
 

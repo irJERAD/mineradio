@@ -24,9 +24,15 @@ I was initially skeptical, both of my ability to talk through a photograph as we
 ## The Message
 
 _"Your wife is pregnant."_ - he announced with a rushed congratulation.
-_"You have to return to the island immediately"_
+_"You have to return to the island immediately!"_
 
 The conversation crossed topics from the physical to the metaphysical. They had traveled across the equator and changed sized in doing so. <br>
 I have no reason to believe they are any different than the other holographic peoples. 
 
 ![](https://radiobed.jerad.xyz/images/bedroom/body.jpeg)
+
+Here the body is outlined to make it standout more. <br>
+Following their arm, they appear to be grabbing their abdomen or back as though it was in pain or sore from a recent trauma. <br>
+It could also look like a wing behind his shoulder - as though it were an angel from cultural depriction. <br>
+
+![](https://radiobed.jerad.xyz/images/bedroom/bodyoutlined.jpeg)
