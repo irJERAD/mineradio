@@ -7,9 +7,9 @@ mode: "one-by-one"
 description: "photo gallery"
 images:
   - image: body.jpeg
-    caption: a player who traveled very far to inform me of the great news; You're having a girl!
+    caption: a watcher travelled from Tahiti to inform me of the great news: You're having a girl! You must return immediately, it's imperative you look over her.
   - image: bodyoutlined.jpeg
-    caption: an outline of the body
+    caption: an outline of the body. He arrived towering in around 1300 mm - much larger than the other holograms - usually 5mm - the energy to sustain such size exhausted him to maintain his individual identity. 
   - image: flowervase.jpeg
     caption: bulb flowers presented. Better for traveling
   - image: gifts.jpeg
