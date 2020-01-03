@@ -1,6 +1,7 @@
 +++ 
 title = "man in the helmet" 
 author = "Jerad Steven Acosta" 
+date = 2019-01-02
 tags = ["watcher"]
 description = "about a messenger" 
 +++
