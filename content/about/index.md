@@ -46,8 +46,8 @@ Here are a few points I meta-phor you. Let me know if you’d like the words sen
 
 ### The Way  
 
-> An exploratory conversation on big questions.
-> The implication of this being real on reality.
+> An exploratory conversation on big questions. <br>
+> The implication of this being real on reality. <br>
 
 **Soul Film:**
     - Imagine the soul as a reel of film. 
