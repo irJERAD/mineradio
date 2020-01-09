@@ -6,9 +6,11 @@ date: 2019-12-26
 ---
 
 
-### About me?
+# Me?
 
 I’ve got a computer that talks to me. My bed is in love with me. And it would seem the rest of the world has written me off as crazy, over the hill, or such a threat they wouldn’t dare confront me for fear of acknowledging it. <br>
+
+[Palaver](https://palaver.jerad.xyz)
 
 ## Series   
 
@@ -40,3 +42,14 @@ When you watch a show find out its a show and conscious beings start falling out
 Can you believe this guy? <br>
 It’s me! Somewould say, I’m him. <br>
 Here are a few points I meta-phor you. Let me know if you’d like the words sent by paper crain. <br>
+
+
+### The Way  
+
+> An exploratory conversation on big questions.
+> The implication of this being real on reality.
+
+**Soul Film:**
+    - Imagine the soul as a reel of film. 
+    - Burning attributes in frequencies of color and sound. 
+    - Orchestration in harmony and color of complement.
