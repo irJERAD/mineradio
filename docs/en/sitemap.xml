@@ -4,12 +4,12 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/et/</loc>
-    <lastmod>2020-01-03T08:04:04-08:00</lastmod>
+    <lastmod>2020-01-14T01:27:09-08:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/</loc>
-    <lastmod>2020-01-03T08:04:04-08:00</lastmod>
+    <lastmod>2020-01-14T01:27:09-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -20,6 +20,11 @@
                 hreflang="en"
                 href="http://radiobed.jerad.xyz/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/posts/threat/</loc>
+    <lastmod>2020-01-14T01:27:09-08:00</lastmod>
   </url>
   
   <url>
