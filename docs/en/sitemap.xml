@@ -84,7 +84,7 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/categories/</loc>
-    <lastmod>2020-01-01T11:54:55-08:00</lastmod>
+    <lastmod>2020-01-14T03:33:34-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -159,37 +159,42 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/categories/metaphor/</loc>
-    <lastmod>2019-12-29T22:24:45-08:00</lastmod>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/categories/metaphysics/</loc>
-    <lastmod>2019-12-29T22:24:45-08:00</lastmod>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/soul/</loc>
-    <lastmod>2019-12-29T22:24:45-08:00</lastmod>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://radiobed.jerad.xyz/en/posts/soulfilm/</loc>
-    <lastmod>2019-12-29T22:24:45-08:00</lastmod>
+    <loc>http://radiobed.jerad.xyz/en/storytime/soulfilm/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/storytime/</loc>
+    <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/black-hole/</loc>
-    <lastmod>2019-12-29T23:02:04-08:00</lastmod>
+    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://radiobed.jerad.xyz/en/posts/blackholenewworld/</loc>
-    <lastmod>2019-12-29T23:02:04-08:00</lastmod>
+    <loc>http://radiobed.jerad.xyz/en/storytime/blackholenewworld/</loc>
+    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/series/cool-talk/</loc>
-    <lastmod>2019-12-29T23:02:04-08:00</lastmod>
+    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -199,7 +204,7 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/physics/</loc>
-    <lastmod>2019-12-29T23:02:04-08:00</lastmod>
+    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -248,18 +253,18 @@
   </url>
   
   <url>
-    <loc>http://radiobed.jerad.xyz/en/posts/buildingthewheel/</loc>
-    <lastmod>2019-12-29T23:34:11-08:00</lastmod>
+    <loc>http://radiobed.jerad.xyz/en/posts/wheel/buildingthewheel/</loc>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/categories/family/</loc>
-    <lastmod>2019-12-29T23:34:11-08:00</lastmod>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/series/the-wheel/</loc>
-    <lastmod>2019-12-29T23:34:11-08:00</lastmod>
+    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -270,6 +275,16 @@
   <url>
     <loc>http://radiobed.jerad.xyz/en/posts/minealsoshare/</loc>
     <lastmod>2019-12-29T23:34:11-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/posts/groundyourself/</loc>
+    <lastmod>2020-01-14T03:33:34-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/categories/health/</loc>
+    <lastmod>2020-01-14T03:33:34-08:00</lastmod>
   </url>
   
   <url>
@@ -289,12 +304,12 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/categories/special/</loc>
-    <lastmod>2019-12-29T23:34:11-08:00</lastmod>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://radiobed.jerad.xyz/en/posts/whyiamspecial/</loc>
-    <lastmod>2019-12-29T23:34:11-08:00</lastmod>
+    <loc>http://radiobed.jerad.xyz/en/posts/wheel/whyiamspecial/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -383,6 +398,14 @@
   </url>
   
   <url>
+    <loc>http://radiobed.jerad.xyz/en/music/beforeyouruinedit/</loc>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/posts/beforeyouruinedit/</loc>
+  </url>
+  
+  <url>
     <loc>http://radiobed.jerad.xyz/en/categories/data-science/</loc>
     <lastmod>2019-12-29T23:34:11-08:00</lastmod>
   </url>
@@ -405,6 +428,14 @@
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/lotto/</loc>
     <lastmod>2019-12-29T22:24:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/tags/lust/</loc>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/music/</loc>
   </url>
   
   <url>
@@ -438,8 +469,28 @@
   </url>
   
   <url>
+    <loc>http://radiobed.jerad.xyz/en/tags/the-game/</loc>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/tags/the-players/</loc>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/tags/three-of-us/</loc>
+  </url>
+  
+  <url>
     <loc>http://radiobed.jerad.xyz/en/categories/truth/</loc>
     <lastmod>2019-12-29T22:24:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/music/twobedsandabody/</loc>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/posts/twobedsandabody/</loc>
   </url>
   
   <url>

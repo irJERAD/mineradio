@@ -10,11 +10,18 @@
   url = "archive"
   weight = 2
 
+
+[[main]]
+  identifier = "music"
+  name = "music"
+  url = "music"
+  weight = 3
+
 [[main]]
   identifier = "pt"
   name = "pt"
   url = "pt"
-  weight = 3
+  
 
 [[main]]
   identifier = "gallery"
@@ -48,3 +55,10 @@
   name = "notes"
   url = "notes"
   weight = 6
+
+
+[[main]]
+  identifier = "storytime"
+  name = "storytime"
+  url = "storytime"
+  weight = 0

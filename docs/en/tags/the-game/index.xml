@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Game on RadioBed</title>
+    <link>http://radiobed.jerad.xyz/en/tags/the-game/</link>
+    <description>Recent content in The Game on RadioBed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jsacosta1103@gmail.com (Jerad Acosta)</managingEditor>
+    <webMaster>jsacosta1103@gmail.com (Jerad Acosta)</webMaster>
+    <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
+    
+        <atom:link href="http://radiobed.jerad.xyz/en/tags/the-game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Before You Went and Ruined It</title>
+        <link>http://radiobed.jerad.xyz/en/music/beforeyouruinedit/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/music/beforeyouruinedit/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Before You Went and Ruined It</title>
+        <link>http://radiobed.jerad.xyz/en/posts/beforeyouruinedit/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/posts/beforeyouruinedit/</guid>
+        <description>Daniel is professional in a militant fashion. Determined to complete the objective in the face of unsurmountable insufficiency.
+Phil is punctual with a poignaint complusion for order. Seeking not only the respect of this order but also the dominance of it.
+The order Daniel serves is one he wishes to preech. He is not one to preech down to; however he will preech at for a lack of base line level of effective action.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

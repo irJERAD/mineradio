@@ -2,7 +2,7 @@
 title: "Ground Yourself"
 date: 2019-08-09
 description: "find a place to grow down and out"
-categories: []
+categories: ["health"]
 comments: true
 featuredImage: "img/paper/islandinsunlay.png"
 featuredImageDescription: "my own island in the sun"
