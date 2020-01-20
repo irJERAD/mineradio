@@ -5,7 +5,7 @@ tags:
     - soul
 categories:
     - metaphor
-    - metaphysics
+   - metaphysics
 ---
 
 Lets explore The Secret and Reincarnation with regard to the Soul as a Film.  
