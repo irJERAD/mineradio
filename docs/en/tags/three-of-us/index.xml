@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Three of Us on RadioBed</title>
+    <link>http://radiobed.jerad.xyz/en/tags/three-of-us/</link>
+    <description>Recent content in Three of Us on RadioBed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jsacosta1103@gmail.com (Jerad Acosta)</managingEditor>
+    <webMaster>jsacosta1103@gmail.com (Jerad Acosta)</webMaster>
+    <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
+    
+        <atom:link href="http://radiobed.jerad.xyz/en/tags/three-of-us/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Two Books and a Body</title>
+        <link>http://radiobed.jerad.xyz/en/music/twobedsandabody/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/music/twobedsandabody/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Two Books and a Body</title>
+        <link>http://radiobed.jerad.xyz/en/posts/twobedsandabody/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/posts/twobedsandabody/</guid>
+        <description>Two Books and a Body Hidden between context dependent covers. Hard spine ridden crease pushed over. Two balads and a lovers wistle, In Sync to play and to listen.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

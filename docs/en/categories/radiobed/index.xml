@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radiobed on RadioBed</title>
+    <link>http://radiobed.jerad.xyz/en/categories/radiobed/</link>
+    <description>Recent content in radiobed on RadioBed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jsacosta1103@gmail.com (Jerad Acosta)</managingEditor>
+    <webMaster>jsacosta1103@gmail.com (Jerad Acosta)</webMaster>
+    <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://radiobed.jerad.xyz/en/categories/radiobed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>MindShare Manifesto</title>
+        <link>http://radiobed.jerad.xyz/en/posts/mindsharemanifesto/</link>
+        <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/posts/mindsharemanifesto/</guid>
+        <description>HCI intro We are eager to take our interaction with technology and each other to the next level.
+Screens changed the way we consume information.
+The keyboard expedited the speed at which we could input data.
+With the mouse and GUI&#39;s human interaction with our computers entered the skeuomorphic era.
+Here we have leveraged rich contextual and cultural &amp;hellip;
+Mouse Metaphor Now we can propose to complete relieve ourselves of the tangible constraints to our processing platforms we just recently prized (throws mouse over shoulder: the two-axis mouse limits us to up, down and side to side inputs with our screen to navigate to a file.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
