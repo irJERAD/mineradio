@@ -1,11 +1,9 @@
 ---
 title: "The Observer"
 date: 2019-12-04
-description: "on a journey to this place I was assigned my life's purpose, on the other side"
 categories:
     - dreams
 series:
-    - Prophetic Sleepist
 comments: true
 featuredImage: "/img/paper/dreamlab.png"
 featuredImageDescription: ""
