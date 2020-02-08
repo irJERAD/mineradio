@@ -30,7 +30,11 @@ During Christmas 2012 New Years 2013 I was invited to become a very significant 
 For over two decades the Chong family coconut tree provided many an afternoon of cool refreshments and a healthy snack.
 
 The casa Chong coconut tree has lived with them for over two decades. Receiving many blistering afternoons with a cool refreshment and responding to long days and slow colons with a healthy snack to get your back, back in motion.
-Watching you would think Papa Chong enjoys cutting down the coconut, puncturing the divot and 
+Watching you would think Papa Chong enjoys cutting down the coconut, puncturing the divot and cleaning up the husk as much as he enjoyed watching the smile across his daughters face,
+'oui papa' - alex
+'ce bon' - steph
+'ok a la' - papa chong
+'merci papa!' - alex & steph
 
 
 #palaver #website #hugo #jeradxyz
