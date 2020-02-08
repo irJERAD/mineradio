@@ -1,10 +1,8 @@
 ---
 title: "Speeches Come In A Can"
 date: 2020-01-22
-tag:
-	- speech
-categories:
-	- soul
+tag: ["speech"]
+categories: ["soul film"]
 draft: true
 ---
 
