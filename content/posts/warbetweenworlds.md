@@ -1,3 +1,10 @@
+---
+title: "War Between Worlds"
+date: 2020-02-09
+category: ["space"]
+tag: ["war"]
+---
+
 # War Between Worlds
 
 When imagining a great galactic battle. One between civilizations. 
