@@ -1,7 +1,9 @@
 ---
-title: Defintions
-author: Jerad Steven Acosta
-description: A basic vocabulary and definitions for soulfilm and how the reality plays into our lives
+title: "Defintions"
+author: "Jerad Steven Acosta"
+description: "A basic vocabulary and definitions for soulfilm and how the reality plays into our lives"
+date: 2020-02-18    
+
 ---
 
 **Outline**
