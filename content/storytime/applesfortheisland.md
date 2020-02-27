@@ -1,6 +1,6 @@
 +++
-title = apples for the island
-author = Jerad Steven Acosta
+title = "apples for the island"
+author = "Jerad Steven Acosta"
 date = 2020-02-26
 +++
 
