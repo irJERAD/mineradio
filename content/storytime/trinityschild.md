@@ -1,6 +1,6 @@
 +++
-title = Trinity’s Child
-author = Jerad Steven Acosta
+title = "Trinity’s Child"
+author = "Jerad Steven Acosta"
 date = 2020-02-26
 +++
 
