@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://radiobed.jerad.xyz/en/posts/exploitationofreparations/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://radiobed.jerad.xyz/en/categories/</loc>
-    <lastmod>2020-03-09T00:00:00-07:00</lastmod>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -19,17 +24,17 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/series/dream-caught/</loc>
-    <lastmod>2020-03-09T00:00:00-07:00</lastmod>
+    <lastmod>2020-03-13T04:00:15-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/storytime/dreamsmarchmoon/</loc>
-    <lastmod>2020-03-09T00:00:00-07:00</lastmod>
+    <lastmod>2020-03-13T04:00:15-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/series/</loc>
-    <lastmod>2020-03-09T00:00:00-07:00</lastmod>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -44,12 +49,12 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/storytime/</loc>
-    <lastmod>2020-03-09T00:00:00-07:00</lastmod>
+    <lastmod>2020-03-13T04:00:15-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/</loc>
-    <lastmod>2020-03-09T00:00:00-07:00</lastmod>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -124,12 +129,12 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/index/</loc>
-    <lastmod>2020-01-22T00:00:00-08:00</lastmod>
+    <lastmod>2020-03-13T04:00:15-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/posts/powerscale/</loc>
-    <lastmod>2020-01-22T00:00:00-08:00</lastmod>
+    <lastmod>2020-03-13T04:00:15-07:00</lastmod>
   </url>
   
   <url>
@@ -164,7 +169,7 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/magic/</loc>
-    <lastmod>2020-01-22T02:04:36-08:00</lastmod>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
   </url>
   
   <url>
@@ -309,7 +314,7 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/series/cool-talk/</loc>
-    <lastmod>2020-01-16T04:52:52-08:00</lastmod>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
   </url>
   
   <url>
@@ -578,6 +583,11 @@
   </url>
   
   <url>
+    <loc>http://radiobed.jerad.xyz/en/tags/curse/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://radiobed.jerad.xyz/en/categories/data-science/</loc>
     <lastmod>2019-12-29T23:34:11-08:00</lastmod>
   </url>
@@ -588,13 +598,28 @@
   </url>
   
   <url>
+    <loc>http://radiobed.jerad.xyz/en/categories/esp/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://radiobed.jerad.xyz/en/tags/game/</loc>
     <lastmod>2019-12-29T22:24:45-08:00</lastmod>
   </url>
   
   <url>
+    <loc>http://radiobed.jerad.xyz/en/posts/imetaphysician/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://radiobed.jerad.xyz/en/series/id/</loc>
     <lastmod>2019-12-29T22:24:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/tags/internal-monologue/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
   </url>
   
   <url>
@@ -605,6 +630,21 @@
   <url>
     <loc>http://radiobed.jerad.xyz/en/tags/lust/</loc>
     <lastmod>2020-01-16T04:52:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/categories/magic-spell/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/tags/metaphysics/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/tags/mineradio/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
   </url>
   
   <url>
@@ -624,7 +664,7 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/posts/</loc>
-    <lastmod>2019-12-26T18:41:54-08:00</lastmod>
+    <lastmod>2020-03-13T04:00:15-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -638,8 +678,23 @@
   </url>
   
   <url>
+    <loc>http://radiobed.jerad.xyz/en/posts/raintheif/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://radiobed.jerad.xyz/en/posts/sddatalibraryhackathon/</loc>
     <lastmod>2019-12-29T23:34:11-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/tags/spell/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/series/spellbook/</loc>
+    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
   </url>
   
   <url>
