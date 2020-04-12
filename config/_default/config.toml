@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
-summaryLength = 70
+summaryLength = 30
 
 copyright = "&copy;{oh-19}, All Rights Reserved"
 timeout = 10000
@@ -15,7 +15,7 @@ paginate = 13
 rssLimit = 100
 
 enableGitInfo = true
-googleAnalytics = "UA-91420291-1"
+googleAnalytics = "215699623"
 
 [markup]
   [markup.goldmark]
