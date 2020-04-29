@@ -9,7 +9,7 @@
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/categories/</loc>
-    <lastmod>2020-03-23T02:48:43-07:00</lastmod>
+    <lastmod>2020-04-29T08:35:13-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -418,13 +418,13 @@
   </url>
   
   <url>
-    <loc>http://radiobed.jerad.xyz/en/posts/groundyourself/</loc>
-    <lastmod>2020-01-16T04:52:52-08:00</lastmod>
+    <loc>http://radiobed.jerad.xyz/en/posts/ground-yourself/</loc>
+    <lastmod>2020-04-29T08:35:13-07:00</lastmod>
   </url>
   
   <url>
     <loc>http://radiobed.jerad.xyz/en/categories/health/</loc>
-    <lastmod>2020-01-16T04:52:52-08:00</lastmod>
+    <lastmod>2020-04-29T08:35:13-07:00</lastmod>
   </url>
   
   <url>
@@ -560,6 +560,26 @@
                 hreflang="en"
                 href="http://radiobed.jerad.xyz/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/notes/conformity/computer-in-the-sky/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/notes/conformity/what-its-like-to-lose-your-mind/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/posts/eternalself/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://radiobed.jerad.xyz/en/posts/truestself/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
