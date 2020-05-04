@@ -6,7 +6,7 @@
 
 [[main]]
   identifier = "archive"
-  name = "archive"
+  name = "archive"   
   url = "archive"
   weight = 2
 
@@ -62,3 +62,13 @@
   name = "storytime"
   url = "storytime"
   weight = 0
+  
+[[main]]
+    parent = "storytime"
+    name = "Soul Film"
+    url = "storytime/soul-film"
+    
+[[main]]
+    parent = "storytime"
+    name = "Gaurdians"
+    url = "storytime/gaurdians"
