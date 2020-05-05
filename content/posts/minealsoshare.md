@@ -8,6 +8,7 @@ series:
     - MindShare Manifesto
 featuredImage: /img/paper/shipsmog.png
 featuredImageDescription: platform is going up
+draft: false
 ---
 
 Ideas, Concept, Minds, Perspective

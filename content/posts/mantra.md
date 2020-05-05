@@ -4,6 +4,7 @@ date: 2020-02-08
 description: "write down, repeat, vocalize, recite"
 tag:
 categories: "self improvement"
+draft: false
 ---
 
 ## Jerad Steven Acosta

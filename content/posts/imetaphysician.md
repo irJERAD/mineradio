@@ -7,6 +7,7 @@ tags = ["metaphysics","mineradio","internal monologue"]
 categories = ["ESP"]
 series = ["cool talk"]
 description = "an academics introductory guide to making friends with their connection to the infinite.. or something like that"
+draft = false
 +++
 
 ## Intro quote

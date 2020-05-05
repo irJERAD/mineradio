@@ -11,6 +11,7 @@ tags:
 categories:
     - poetry
 series:
+draft: false
 ---
 
 The little switches <br>

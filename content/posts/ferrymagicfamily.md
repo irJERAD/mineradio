@@ -5,6 +5,7 @@ date = 2020-01-15
 author = "Jerad Steven Acosta"
 tags = ["video","ferry","magic","spaceship"]
 description = "Spaceship landing Wednesday Night January 15"
+draft = false
 +++
 
 {{< youtube w2uxqwFGd4s >}}

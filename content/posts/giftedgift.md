@@ -5,6 +5,7 @@ author = "Jerad Acosta"
 tags = ["lyfe"]
 type = "post"
 description = "a gift for gifted people"
+draft = false
 +++
 
 ## A gift to the gifted

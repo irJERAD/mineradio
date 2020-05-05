@@ -7,6 +7,7 @@ categories:
 series:
     - MindShare
 featuredImage: img/paper/bananafan.png
+draft: false
 ---
 
 #### HCI intro

@@ -1,7 +1,7 @@
 +++
 aliases = ["posts","articles","blog","showcase","docs"]
 title = "Before You Went and Ruined It"
-author = "Hugo Authors"
+author = "Jerad Steven Acosta"
 tags = ["The Game", "The Players"]
 description = "Daniel and Phil ruined my life"
 +++

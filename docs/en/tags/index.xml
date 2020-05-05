@@ -9,12 +9,30 @@
     <managingEditor>jsacosta1103@gmail.com (Jerad Acosta)</managingEditor>
     <webMaster>jsacosta1103@gmail.com (Jerad Acosta)</webMaster>
     <copyright>&amp;copy;{oh-19}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://radiobed.jerad.xyz/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Lust</title>
+        <link>http://radiobed.jerad.xyz/en/tags/lust/</link>
+        <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/tags/lust/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Three of Us</title>
+        <link>http://radiobed.jerad.xyz/en/tags/three-of-us/</link>
+        <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/tags/three-of-us/</guid>
+        <description></description>
+      </item>
       
       <item>
         <title>index</title>
@@ -73,7 +91,7 @@
       <item>
         <title>future</title>
         <link>http://radiobed.jerad.xyz/en/tags/future/</link>
-        <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
         <guid>http://radiobed.jerad.xyz/en/tags/future/</guid>
         <description></description>
@@ -197,6 +215,24 @@
       </item>
       
       <item>
+        <title>Angster Rap</title>
+        <link>http://radiobed.jerad.xyz/en/tags/angster-rap/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/tags/angster-rap/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Awk Rock</title>
+        <link>http://radiobed.jerad.xyz/en/tags/awk-rock/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/tags/awk-rock/</guid>
+        <description></description>
+      </item>
+      
+      <item>
         <title>curse</title>
         <link>http://radiobed.jerad.xyz/en/tags/curse/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -206,20 +242,11 @@
       </item>
       
       <item>
-        <title>dream</title>
-        <link>http://radiobed.jerad.xyz/en/tags/dream/</link>
+        <title>Heather and The Fleece</title>
+        <link>http://radiobed.jerad.xyz/en/tags/heather-and-the-fleece/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>http://radiobed.jerad.xyz/en/tags/dream/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>game</title>
-        <link>http://radiobed.jerad.xyz/en/tags/game/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>http://radiobed.jerad.xyz/en/tags/game/</guid>
+        <guid>http://radiobed.jerad.xyz/en/tags/heather-and-the-fleece/</guid>
         <description></description>
       </item>
       
@@ -229,24 +256,6 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
         <guid>http://radiobed.jerad.xyz/en/tags/internal-monologue/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>lotto</title>
-        <link>http://radiobed.jerad.xyz/en/tags/lotto/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>http://radiobed.jerad.xyz/en/tags/lotto/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Lust</title>
-        <link>http://radiobed.jerad.xyz/en/tags/lust/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>http://radiobed.jerad.xyz/en/tags/lust/</guid>
         <description></description>
       </item>
       
@@ -265,6 +274,15 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
         <guid>http://radiobed.jerad.xyz/en/tags/mineradio/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Palaver</title>
+        <link>http://radiobed.jerad.xyz/en/tags/palaver/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
+        <guid>http://radiobed.jerad.xyz/en/tags/palaver/</guid>
         <description></description>
       </item>
       
@@ -292,15 +310,6 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
         <guid>http://radiobed.jerad.xyz/en/tags/the-players/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Three of Us</title>
-        <link>http://radiobed.jerad.xyz/en/tags/three-of-us/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>jsacosta1103@gmail.com (Jerad Acosta)</author>
-        <guid>http://radiobed.jerad.xyz/en/tags/three-of-us/</guid>
         <description></description>
       </item>
       

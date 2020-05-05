@@ -4,6 +4,7 @@ date = 2020-01-20
 author = "Jerad Steven Acosta"
 tags = []
 description = "put down the hat and take off your gloves"
+draft = false
 +++
 
 

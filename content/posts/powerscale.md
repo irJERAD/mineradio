@@ -5,6 +5,7 @@ author = "Jerad Steven Acosta"
 date = 2020-01-22
 tags = ["index"]
 description = "explore the experience of power"
+draft = false
 +++
 
 Power <br>

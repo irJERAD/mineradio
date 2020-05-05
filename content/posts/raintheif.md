@@ -7,6 +7,7 @@ tags = ["curse","magic","spell"]
 categories = ["Magic Spell"]
 series = ["Spellbook"]
 description = "like a spent cow in Pakistan, I have nothing but this crusty utter"
+draft = false
 +++
 
 Look Around; Look Around  
